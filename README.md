@@ -1,4 +1,4 @@
-Working on command line tools in C that make my life more interesting.
+Working on CLI tools in C that make my life more interesting. I wield the command line like a conductor’s baton, I unearth data from all sound files, and I am the bridge between bridge code and copper. 
 
 ## Audio Command Line Tools
 - [Discrete Fourier Transform Tool (DFTT)](https://github.com/ymich9963/dftt): Calculate DFT of real-valued data like CSV files/strings and audio files. Also supports FFT algorithms.
