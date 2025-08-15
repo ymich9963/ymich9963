@@ -3,7 +3,7 @@ Working on CLI tools in C that make my life more interesting. I wield the comman
 ## Audio CLI Tools
 - [Discrete Fourier Transform Tool (DFTT)](https://github.com/ymich9963/dftt): Calculate DFT of real-valued data like CSV files/strings and audio files. Also supports FFT algorithms.
 - [Swavgen](https://github.com/ymich9963/swavgen): Generate sine, square, saw, and triangle waves in the WAVE file format in a variety of encodings.
-- [ADX](https://github.com/ymich9963/adx): Extract data from audio files.
+- [Audio Data Extractor (ADX)](https://github.com/ymich9963/adx): Extract data from audio files.
 - [Mix2Mono](https://github.com/ymich9963/mix2mono): Mix a multichannel audio file to a single channel.
 
 ## Electronics Design CLI Tools
