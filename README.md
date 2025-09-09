@@ -4,6 +4,7 @@ Working on command line tools in C that make my life more interesting.
 - [Discrete Fourier Transform Tool (DFTT)](https://github.com/ymich9963/dftt): Calculate DFT of real-valued data like CSV files/strings and audio files. Also supports FFT algorithms.
 - [Swavgen](https://github.com/ymich9963/swavgen): Generate sine, square, saw, and triangle waves in the WAVE file format in a variety of encodings.
 - [ADX](https://github.com/ymich9963/adx): Extract data from audio files.
+- [WindFcn](https://github.com/ymich9963/windfcn): Apply a window function to audio or CSV file/string input.
 - [Mix2Mono](https://github.com/ymich9963/mix2mono): Mix a multichannel audio file to a single channel.
 
 ## Electronics Design Command line Tools
