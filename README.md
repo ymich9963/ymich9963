@@ -7,8 +7,10 @@ Working on CLI tools in C that make my life more interesting. I wield the comman
 - [Mix2Mono](https://github.com/ymich9963/mix2mono): Mix a multichannel audio file to a single channel.
 - [WindFcn](https://github.com/ymich9963/windfcn): Apply a window function to audio or CSV file/string input.
 
-## Electronics Design CLI Tools
+## Electronics Design Tools
 - [TWC](https://github.com/ymich9963/twc): Trace width calculator with IPC2221 and IPC2152 standard support, with multiple methods supprted for IPC2152.
+- [KiABOM](https://github.com/Mage-Control-Systems-Ltd/KiABOM): (Author) A simple and portable KiCad automatic BOM generator script that pulls parts data using KiCost.
+- [NCCM](https://github.com/Mage-Control-Systems-Ltd/NCCM): (Author) A KiCad plugin used to generate custom rules for clearances between net classes through a matrix GUI.
 
 ## Other
 - [WULPSC](https://github.com/ymich9963/WULPSC): Firmware for a WiFi Ultra Low Power Stereo Camera.
