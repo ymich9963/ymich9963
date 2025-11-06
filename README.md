@@ -13,6 +13,7 @@ Working on CLI tools in C that make my life more interesting. I wield the comman
 - [NCCM](https://github.com/Mage-Control-Systems-Ltd/NCCM): (Author) A KiCad plugin used to generate custom rules for clearances between net classes through a matrix GUI.
 
 ## Other
+- [mdnotes.nvim](https://github.com/ymich9963/mdnotes.nvim): Plugin to enhance Markdown note taking in Neovim.
 - [WULPSC](https://github.com/ymich9963/WULPSC): Firmware for a WiFi Ultra Low Power Stereo Camera.
 - [Theremin MIDI Controller - Phone Based Musical Instrument](https://github.com/ymich9963/TMC-Phone-based-Tactile-Musical-Instrument): A therevin MIDI controller with a companion app.
 - [RasPi-PrudensJS](https://github.com/ymich9963/RasPi-PrudensJS): A prototype using a Raspberry Pi 400 with an Explainable AI for a Smart Home Application.
